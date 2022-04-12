@@ -1,4 +1,4 @@
-# Sign-In-Sign-Up
+# Sign-In/Up
 
 Used Firebase for User Sign In/Up Authentication and Realtime Database
 Used Recyclerview for Onboarding Screen
