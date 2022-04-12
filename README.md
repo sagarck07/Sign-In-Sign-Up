@@ -3,7 +3,7 @@
 Used Firebase for User Sign In/Up Authentication and Realtime Database
 Used Recyclerview for Onboarding Screen
 
-Used Android Studio
+Used Android Studio,
 Backend: Java, Firebase
 Frontend: XML
 
