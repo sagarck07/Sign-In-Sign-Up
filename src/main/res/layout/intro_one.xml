@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="356dp"
+            android:layout_height="354dp"
+            android:layout_gravity="center"
+            android:background="@drawable/img1" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Always Wear Mask"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wearing a face mask in public helps prevent the spread of COVID-19"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25sp"
+            android:layout_marginTop="15sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:textSize="15sp"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
